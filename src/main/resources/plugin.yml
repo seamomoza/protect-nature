@@ -1,0 +1,8 @@
+name: BLOCK
+version: '1.0-SNAPSHOT'
+main: org.kotlin.bLOCK.BLOCK
+api-version: '1.21'
+commands :
+  block:
+    description: "대피하세요!"
+    usage: /block
